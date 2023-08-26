@@ -15,7 +15,7 @@ class TuneAPP  extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       
       
-      home: const TunePage()
+      home: TunePage()
     );
   }
 }
